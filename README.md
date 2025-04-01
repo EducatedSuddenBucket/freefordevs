@@ -1,8 +1,4 @@
----
-layout: default
-title: "Free Services for Developers"
-description: "A curated list of free services and tools for developers."
----
+
 
 # Free Services for Developers
 
