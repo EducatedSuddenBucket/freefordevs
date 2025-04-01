@@ -7,7 +7,6 @@ A curated list of free services and tools for developers.
 ## Hosting Services
 
 - [DanBot Hosting](https://danbot.host/) - Free Discord bot hosting, Uptime Kuma hosting, Nginx (PHP) hosting, and many more services for developers.
-- [GitHub Codespaces](https://github.com/features/codespaces) - Cloud development environment integrated with GitHub.
 - [Render](https://render.com/) - Cloud application hosting with free tier for web services, static sites, and databases.
 - [GitHub Pages](https://pages.github.com/) - Free hosting for static websites directly from your GitHub repository.
 - [Cloudflare Pages](https://pages.cloudflare.com/) - Fast, secure hosting for frontend developers with a free tier.
@@ -23,6 +22,13 @@ A curated list of free services and tools for developers.
 
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - Fully managed cloud database service with a free tier.
 - [Neon](https://neon.tech/) - Free serverless PostgreSQL hosting with up to 1 database
+
+## Development
+
+- [GitHub Codespaces](https://github.com/features/codespaces) - Cloud development environment integrated with GitHub.
+- [Google Cloud Shell](https://shell.cloud.google.com) - Free access to a Linux shell environment directly in your web browser, pre-loaded with essential tools.
 <footer>
-This list is maintained by [me](https://educatedsuddenbucket.is-a.dev). If you know of any free services for developers that should be added, please contribute!
+  This list is maintained by <a href="https://esb.is-a.dev">me</a>. 
+  If you know of any free services for developers that should be added, please contribute!
 </footer>
+
