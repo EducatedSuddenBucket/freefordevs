@@ -28,7 +28,7 @@ A curated list of free services and tools for developers.
 - [GitHub Codespaces](https://github.com/features/codespaces) - Cloud development environment integrated with GitHub.
 - [Google Cloud Shell](https://shell.cloud.google.com) - Free access to a Linux shell environment directly in your web browser, pre-loaded with essential tools.
 <footer>
-This site is open source - <a href="https://github.com/EducatedSuddenBucket/freefordevs" target="_blank">GitHub</a>
+This site is open source - <a href="https://github.com/EducatedSuddenBucket/freefordevs" target="_blank">GitHub.</a>
 If you know of any free services for developers that should be added, please contribute!
 </footer>
 
